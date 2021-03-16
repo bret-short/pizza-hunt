@@ -1,0 +1,24 @@
+{
+  "name": "pizza-hunt",
+  "version": "1.0.0",
+  "description": "Social media pizza sharing app",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bret-short/pizza-hunt.git"
+  },
+  "author": "Bret Short",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bret-short/pizza-hunt/issues"
+  },
+  "homepage": "https://github.com/bret-short/pizza-hunt#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.12.0"
+  }
+}
